@@ -19,7 +19,7 @@ html {
     display: none;
   }
 }
-.nav-link :hover {
+.nav-link:hover {
   color: rgba(255, 255, 255, 0.718) !important;
   transform: scale(90%);
   transition: 0.3s;
